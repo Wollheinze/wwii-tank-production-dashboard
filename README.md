@@ -60,9 +60,9 @@ scope consistent.
 
 ## Files
 
-- `WWII_Tank_Production_Dashboard.pbix` — Power BI report
-- `tank_production_data.xlsx` — Source dataset
-- `dashboard_overview.png` — Dashboard preview
+- [`ww2_tank_production_dashboard.pbix`](ww2_tank_production_dashboard.pbix) — Power BI report
+- [`ww2__tank_production_data.xlsx`](ww2__tank_production_data.xlsx) — Source dataset
+- [`dashboard_overview.png`](dashboard_overview.png) — Dashboard preview
 
 ## How to View
 
