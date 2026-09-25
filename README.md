@@ -55,7 +55,7 @@ I excluded self-propelled guns and tank destroyers to keep the project focused o
 ## Files
 
 * [`ww2_tank_production_dashboard.pbix`](ww2_tank_production_dashboard.pbix) — Power BI report
-* [`ww2_tank_production_data.xlsx`](ww2_tank_production_data.xlsx) — source dataset
+* [`ww2__tank_production_data.xlsx`](ww2__tank_production_data.xlsx) — Source dataset
 * [`dashboard_overview.png`](dashboard_overview.png) — dashboard preview
 
 ## How to View
